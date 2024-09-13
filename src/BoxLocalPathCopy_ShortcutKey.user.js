@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         box-path-copy
+// @name         BoxLocalPathCopy_ShortcutKey
 // @namespace    http://tampermonkey.net/
 // @version      3.5
 // @description  box url to local path
